@@ -1,1 +1,5 @@
-# free-the-cookie-v2
+This folder contains:
+
+Manifest file: manifest.json
+JavaScript file: config.js
+JavaScript file: freecookie.js
